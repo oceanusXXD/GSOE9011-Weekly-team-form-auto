@@ -208,4 +208,14 @@ week 列表 × 组员列表
 python3 /home/coder/data/GSOE9011-Weekly-team-form-auto/main.py --group 60 --week 9 --delay-min 2 --delay-max 5
 ```
 
-- 这个脚本不会在我当前修改阶段自动提交，只有你自己运行且不带 `--dry-run` 时才会真实提交
+- 这个脚本不会在自动提交，只有运行且不带 `--dry-run` 时才会真实提交
+
+## 九、免责声明
+- 这个脚本仅供学习和研究使用，请勿用于任何商业或非法用途
+- 使用前请确保你已经了解并同意 Microsoft Forms 的使用条款
+- 任何因使用本脚本而导致的账号问题或数据丢失，作者不承担任何责任
+- 请勿滥用自动化工具，合理使用以避免对系统造成不必要的负担
+- This script is intended for educational and research purposes only. Do not use it for any commercial or illegal activities.
+- Please ensure you understand and agree to Microsoft Forms' terms of service before using this script.
+- The author is not responsible for any account issues or data loss resulting from the use of this script.
+- Do not abuse automation tools; use them responsibly to avoid unnecessary strain on the system.
