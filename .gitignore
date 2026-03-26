@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+
+# local runtime files
+forms_cookie.txt
+form_page.html
+form_page_context.json
+form_payload.json
+form_startup.json
+form_schema.json
+
